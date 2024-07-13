@@ -5,3 +5,4 @@ for(let i = 1 ;i <=n ;i++){
 }
 
 console.log(`Factorial of ${n} is ${ans}`)
+console.log(`Factorial of ${n} is ${ans}`)
